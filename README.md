@@ -15,4 +15,4 @@ Projekat sadrži sledeće fajlove:
 - model2(BEST) folder
 <br> Ovde su sačuvani najbolji model (weights iz 41. epohe, to jest poslednje do koje je loss opadao) i tri midi fajla koja je generisala mreža.</br>
 - Nevena_Rokvic_E2_147_2019.pdf
-<br>Rad u kojem je opisan čitav proces i rezultati.</br>
+<br>Izveštaj u kojem je opisan čitav proces i rezultati.</br>
